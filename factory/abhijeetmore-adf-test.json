@@ -1,0 +1,9 @@
+{
+	"name": "abhijeetmore-adf-test",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c83873d-b652-4722-b863-e467c7b006e4",
+		"tenantId": "b5de0d63-6ff0-488f-96a3-7b4292540a46"
+	}
+}
